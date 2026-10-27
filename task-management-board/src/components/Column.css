@@ -1,0 +1,20 @@
+
+.column {
+    background-color: #e8ecf3;
+    padding: 15px;
+    border-radius: 10px;
+    min-height: 250px;
+}
+
+.column h2 {
+    font-size: 19px;
+    margin-top: 5px;
+    margin-bottom: 18px;
+}
+
+.empty {
+    color: #777;
+    font-size: 14px;
+    text-align: center;
+    padding: 15px 0;
+}
